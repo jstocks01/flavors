@@ -1,0 +1,14 @@
+img {
+  height: 300px;
+  width: auto;
+}
+
+ul {
+  margin-top: 20px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+.jumbotron {
+  text-align: center;
+}
